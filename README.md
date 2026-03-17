@@ -1,0 +1,2 @@
+# comedy.go
+humor funny
